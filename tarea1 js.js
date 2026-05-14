@@ -1,0 +1,21 @@
+   var num1,num2,suma;
+        num1=parseInt(prompt("Digite el primer numero:"));
+        num2=parseInt(prompt("Digite el segundo numero:"));
+        suma=num1+num2;
+        alert("El resultado de la suma es:"+suma);
+        var num3,num4,resta;
+        num3=parseInt(prompt("Digite el tercer numero:"));
+        num4=parseInt(prompt("Digite el cuarto numero:"));
+        resta=num3-num4;
+        alert("El resultado de la resta es:"+resta);
+        var num5,num6,multiplicacion;
+        num5=parseInt(prompt("Digite el  quinto numero:"));
+        num6=parseInt(prompt("Digite el sexto numero:"));
+        resta=num5*num6;
+        alert("El resultado de multiplicar es:"+multiplicacion);
+        var num7,num8,divicion;
+        num7=parseInt(prompt("Digite el septimo numero:"));
+        num8=parseInt(prompt("Digite el octavo numero:"));
+        resta=num7/num8;
+        alert("El resultado de dividir es:"+dividir);
+       
